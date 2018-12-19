@@ -25,7 +25,7 @@ namespace ConsoleApp20
         Console.WriteLine(i);
         Console.ReadKey();
         Console.WriteLine(Enum.GetName(typeof(week),4));
-        //Console.WriteLine(Enum.GetNames(typeof(week).GetValue(4)));
+        // Console.WriteLine(Enum.GetNames(typeof(week).GetValue(4)));
         }
     }
 }
